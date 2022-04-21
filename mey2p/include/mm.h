@@ -9,6 +9,8 @@ class mm
         virtual ~mm();
 
     protected:
+        cout << "Hello world!" << endl;
+    return 0;
 
     private:
 };
