@@ -34,9 +34,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/parc.h" />
+		<Unit filename="include/par.h" />
+		<Unit filename="include/rama4.h" />
+		<Unit filename="include/rama5.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/parc.cpp" />
+		<Unit filename="src/par.cpp" />
+		<Unit filename="src/rama4.cpp" />
+		<Unit filename="src/rama5.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
